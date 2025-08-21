@@ -1,5 +1,5 @@
 👋 Hi, I’m @VIsHnu1762
-	•	👀 Passionate Problem Solver | Curious Critical Thinker
+	•	👀 Passionate Problem Solver | Curious Critical Thinker 
 	•	💻 Interested in Coding, Algorithms, and Software Development
 	•	🌱 Currently learning Data Structures, Algorithms, and Full-Stack Development
 	•	💞️ Looking to collaborate on Open Source Projects and Innovative Tech Solutions
